@@ -1,2 +1,2 @@
-# Employee-Database with functioalities testing using queries.
+# Employee-Database with functionalities testing using queries.
 Using oracle and sql this project in created
